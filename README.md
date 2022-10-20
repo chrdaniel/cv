@@ -1,2 +1,2 @@
 # cv
-Pesonal website with my qualifications.
+Personal website with my qualifications.
